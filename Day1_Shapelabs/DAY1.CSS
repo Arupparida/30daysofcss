@@ -1,0 +1,18 @@
+#square {
+  width: 100px;
+  height: 100px;
+  background-color: #bbb;
+}
+#circle {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #bbb;
+}
+
+#button {
+  width: 200px;
+  height: 50px;
+  border-radius: 30%;
+  background-color: aqua;
+}
