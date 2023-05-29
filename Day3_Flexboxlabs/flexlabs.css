@@ -1,0 +1,13 @@
+.container
+{
+  display: flex;
+}
+
+.box {
+  text-align: center;
+  flex-grow: 1;
+}
+
+#box2 {
+  order: -1;
+}
